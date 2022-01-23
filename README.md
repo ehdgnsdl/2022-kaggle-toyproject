@@ -3,11 +3,11 @@
 ## 1. annoying-orange-face-master
 * Python 3
 * OpenCV 4+
-*Dlib
-*imutils
-*numpy
+* Dlib
+* imutils
+* numpy
 
 ## 2. fy_filter
-*cv2
-*mediapipe
-*numpy
+* cv2
+* mediapipe
+* numpy
