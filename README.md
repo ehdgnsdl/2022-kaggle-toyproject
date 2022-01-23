@@ -1,8 +1,8 @@
 # 2022-kaggle-toyproject
  
 ## 1. annoying-orange-face-master
-*Python 3
-*OpenCV 4+
+* Python 3
+* OpenCV 4+
 *Dlib
 *imutils
 *numpy
